@@ -1,0 +1,18 @@
+{%if is_authenticated %}
+    <h1>Hello {{name}}</h1>
+{%else%}
+    <h1>hello</h1>
+{%endif%}
+<h3>{{first_list.0}}</h3>
+<h2>{{temp_object.x}}</h2>
+<h3>age {{age}}</h3>
+
+{%for x in first_list %}
+    <p>first: {{x}}</p>
+{% endfor %}
+<h1>filters </h1>
+{{first_list | length}}
+
+{% comment "first comment" %}
+test123
+{% endcomment %}
