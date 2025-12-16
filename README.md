@@ -13,38 +13,12 @@ Live Demo: yadnik72.eu.pythonanywhere.com
 Job Management
 Post Job Listings - Employers can create and manage job postings
 
-Advanced Search - Filter by location, job type, salary, industry
-
 Job Details - Rich job descriptions with company information
-
-Application Tracking - Candidates can apply to jobs and track applications
-
-Featured Jobs - Promote important job listings
 
 Employer Features
 Employer Dashboard - Manage posted jobs and applications
 
-Company Profiles - Showcase company information and branding
-
 Custom Admin Panel - Manage all job listings and employers
-
-Application Management - Review and track candidate applications
-
-Candidate Features
-Search & Filter - Find jobs by location, salary, type
-
-Save Jobs - Bookmark favorite job listings
-
-Apply to Jobs - Simple application process
-
-Profile Management - Maintain professional profile
-
-Subscription System
-Premium Features - Featured job listings, priority support
-
-Subscription Plans - Flexible pricing options
-
-Automated Billing - Secure payment processing
 
 🛠️ Tech Stack
 Component	Technology
