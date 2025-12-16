@@ -180,68 +180,7 @@ AWS_STORAGE_BUCKET_NAME=your-bucket-name
 CSRF_TRUSTED_ORIGINS=http://localhost:8000,https://yourdomain.com
 ⚠️ Important: Never commit .env file! It's included in .gitignore for security.
 
-🗄️ Database Models
-Job Model
-Title
 
-Description
-
-Location
-
-Salary range
-
-Job type (Full-time, Part-time, Contract)
-
-Company/Employer
-
-Required skills
-
-Posting date
-
-Deadline
-
-Featured status
-
-Employer Model
-Company name
-
-Logo (AWS S3)
-
-Company description
-
-Website
-
-Location
-
-Contact information
-
-Subscription status
-
-Application Model
-Job posting
-
-Candidate
-
-Resume/CV
-
-Cover letter
-
-Application status
-
-Applied date
-
-Reviewed status
-
-Subscription Model
-Plan name
-
-Price
-
-Features
-
-Duration
-
-Featured job slots
 
 🔐 Security Features
 Environment Variables
